@@ -27,6 +27,17 @@ Include some screenshots or GIFs showcasing your clock app.
 - Customizable clock styles.
 - Interactive and user-friendly design.
 
+  <table>
+  <tr>
+    <td> View one</td>
+     <td> View two</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/95247831/200470556-7bf91911-422e-4581-aa13-5179721ec7bd.png" width=300></td>
+    <td><img src="https://user-images.githubusercontent.com/95247831/200470560-10aacc13-5d7e-4c39-9543-9f9c22235a58.png" width=300></td>
+  </tr>
+ </table>
+
 ## Getting Started
 
 1. Clone the repository:
@@ -60,14 +71,5 @@ Ensure you have Flutter and Dart installed. No additional dependencies are requi
 
 This project is licensed under the [MIT License](LICENSE). Feel free to customize, enhance, and share!
 
-<table>
-  <tr>
-    <td> View one</td>
-     <td> View two</td>
-  </tr>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/95247831/200470556-7bf91911-422e-4581-aa13-5179721ec7bd.png" width=300></td>
-    <td><img src="https://user-images.githubusercontent.com/95247831/200470560-10aacc13-5d7e-4c39-9543-9f9c22235a58.png" width=300></td>
-  </tr>
- </table>
+
 
