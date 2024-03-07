@@ -63,11 +63,6 @@ This project is licensed under the [MIT License](LICENSE). Feel free to customiz
 
 
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/95247831/202404483-0999cac6-2d80-4e38-914a-b109d3400336.jpg" width=300></td>
-    <td><img src="https://user-images.githubusercontent.com/95247831/202404530-e655fd9f-e8af-458d-933a-953f9951839b.jpg" width=300></td>
-    <td><img src="https://user-images.githubusercontent.com/95247831/202404558-88f0cd2e-20bc-42d9-bcb4-b5ae3f9844a4.jpg" width=300></td>
+    <td><img src="https://user-images.githubusercontent.com/95247831/200470556-7bf91911-422e-4581-aa13-5179721ec7bd.png" width=300></td>
+    <td><img src="https://user-images.githubusercontent.com/95247831/200470560-10aacc13-5d7e-4c39-9543-9f9c22235a58.png" width=300></td>
   </tr>
-
-![SS1](https://user-images.githubusercontent.com/95247831/200470556-7bf91911-422e-4581-aa13-5179721ec7bd.png)
-
-![SS2](https://user-images.githubusercontent.com/95247831/200470560-10aacc13-5d7e-4c39-9543-9f9c22235a58.png)
