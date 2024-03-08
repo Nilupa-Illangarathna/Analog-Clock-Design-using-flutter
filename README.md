@@ -17,6 +17,9 @@ A Flutter app that displays an interactive clock with animated clock hands and c
 
 This Flutter Clock App showcases an animated clock with hour, minute, and second hands. The app is designed using Flutter and Dart programming languages. The clock hands are updated in real-time, providing a visually appealing and interactive user experience.
 
+- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+
+
 ## Screenshots
 
 Include some screenshots or GIFs showcasing your clock app.
